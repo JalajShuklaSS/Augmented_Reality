@@ -1,4 +1,4 @@
-# AR VR project through PnP and P3P Algorithm Implementation
+# Augmented Reality project through PnP and P3P Algorithm Implementation
 ## Overview
 This project aims to demonstrate the use of computer vision techniques to create an augmented reality (AR) experience. Augmented reality seamlessly integrates virtual elements into the real-world environment, enhancing user perception and interaction.
 
