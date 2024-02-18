@@ -1,7 +1,9 @@
 # AR VR project through PnP and P3P Algorithm Implementation
 ## Overview
 This project aims to demonstrate the use of computer vision techniques to create an augmented reality (AR) experience. Augmented reality seamlessly integrates virtual elements into the real-world environment, enhancing user perception and interaction.
-![VR_AR](result.gif)
+
+
+![VR_AR](Result.gif)
 ## Project Components
 ## Homography Estimation
 The est_homography function calculates the homography matrix H between two planes, enabling the transformation of 2D points in one plane to corresponding points in the other. This functionality is crucial for aligning virtual and real-world coordinates.
